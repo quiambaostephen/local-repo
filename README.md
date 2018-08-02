@@ -1,3 +1,3 @@
-# local-repo
+# Python 
 
-This is for experimentation purposes only.
+Just a repository for python practice.
