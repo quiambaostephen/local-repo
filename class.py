@@ -12,7 +12,7 @@ class Employee:
         return '{} {}'.format(self.first, self.last)
 
     def applyRaise(self):
-        self.pay = int(self.pay * 1.04)
+        self.pay = int(self.pay * self.raise_amount)
 
 
 emp1 = Employee('John', 'Doe', 5000)
