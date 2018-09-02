@@ -1,4 +1,4 @@
-# Python 
+# Introduction to Computer Science and Programming using Python
 
 Just a repository for python practice.
 
